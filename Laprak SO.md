@@ -1,3 +1,5 @@
+#LAPORAN PRAKTIKUM INSTALASI LINUX UBUNTU
+
 <h2>Pendahuluan</h2>
 <h3>Latar belakang</h3>
 <p>VirtualBox adalah perangkat lunak virtualisasi open-source yang memungkinkan pengguna menjalankan sistem operasi tambahan di dalam sistem operasi utama tanpa memodifikasi sistem fisik. Dengan fitur seperti snapshot dan manajemen disk dinamis, VirtualBox memungkinkan Anda untuk bereksperimen dengan berbagai sistem operasi, seperti Linux, tanpa risiko.</p>
