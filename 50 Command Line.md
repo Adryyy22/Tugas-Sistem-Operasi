@@ -1,7 +1,7 @@
 #50 Command Line Linux Ubuntu
 
 <h2>1. lsb_release -a untuk mencetak informasi LSB (Linux Standard Base) dan Distribusi tertentu</h2>
-<img src = https://github.com/user-attachments/assets/6307bfe1-ffce-42bf-a588-3e328f6631d7 width=500>
+<img src = https://github.com/user-attachments/assets/6307bfe1-ffce-42bf-a588-3e328f6631d7 width=500/>
 
 <h2>2.  who untuk menampilkan nama user yang sedang login di sistem</h2>
   <img src = https://github.com/user-attachments/assets/c8c36879-6074-4ca9-a783-b38d8c06c1b6 width=500/>
